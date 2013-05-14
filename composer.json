@@ -1,5 +1,5 @@
 {
-    "name":        "knplabs/knp-piwik-client-bundle",
+    "name":        "jlaso/knp-piwik-client-bundle",
     "type":        "symfony-bundle",
     "description": "Piwik API client bundle for Symfony2.",
     "keywords":    ["piwik", "analytics", "knplabs", "knp", "bundle"],
